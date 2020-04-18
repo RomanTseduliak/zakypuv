@@ -11,6 +11,7 @@ $ npm i --save @fortawesome/free-solid-svg-icons
 $ npm i --save @fortawesome/react-fontawesome
 
 ## Commands used to publish react files in github:
+git remote add origin https://github.com/RomanTseduliak/zakypuv
 
 git remote add origin https://github.com/RomanTseduliak/zakypuv
 
@@ -21,4 +22,8 @@ npm run build
 npm run deploy
 
 ## The published To-do App:
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0575818eb660d1e4a8711426b2a93a0104de3b84
 https://RomanTseduliak.github.io/zakypuv
