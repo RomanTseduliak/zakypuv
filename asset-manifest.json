@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zakypuv/static/css/main.cfe6b972.chunk.css",
+    "main.js": "/zakypuv/static/js/main.f9cc5b7e.chunk.js",
+    "main.js.map": "/zakypuv/static/js/main.f9cc5b7e.chunk.js.map",
+    "runtime~main.js": "/zakypuv/static/js/runtime~main.a9a7c01c.js",
+    "runtime~main.js.map": "/zakypuv/static/js/runtime~main.a9a7c01c.js.map",
+    "static/js/2.bb16d8ff.chunk.js": "/zakypuv/static/js/2.bb16d8ff.chunk.js",
+    "static/js/2.bb16d8ff.chunk.js.map": "/zakypuv/static/js/2.bb16d8ff.chunk.js.map",
+    "index.html": "/zakypuv/index.html",
+    "precache-manifest.b2c37f42985f080cfb41df1ee33c913c.js": "/zakypuv/precache-manifest.b2c37f42985f080cfb41df1ee33c913c.js",
+    "service-worker.js": "/zakypuv/service-worker.js",
+    "static/css/main.cfe6b972.chunk.css.map": "/zakypuv/static/css/main.cfe6b972.chunk.css.map"
+  }
+}
